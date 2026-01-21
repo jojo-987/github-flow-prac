@@ -1,1 +1,1 @@
-This project is created to practice git flow.
+This project is created to practice github flow.
